@@ -1,0 +1,41 @@
+Relatório 1
+
+
+Proposta inicial do projeto:
+
+-	Nome do projeto: Bendy
+
+
+
+-	Enquadramento do projeto:
+
+A ideia deste projeto é criar uma aplicação para turistas em Portugal poderem descobrir de forma rápida e intuitiva e com base nos seus gostos pessoais os melhores locais perto de si para sair á noite.
+
+Esta aplicação insere num contexto de vida social e noturna. O objetivo desta aplicação é proporcionar a melhor experiência possível a estrangeiros no nosso país, fazendo com que estes possam desfrutar da vida noturna excelente que temos por Portugal fora sem terem de perder tempo a pesquisar por si próprios ou a perguntar a desconhecidos.
+O público-alvo desta aplicação será jovens entre os 18 e 25.
+Existe uma aplicação chamada de NightSet, que faz algo parecido com a aplicação que irei desenvolver. A sua plataforma faz a ligação do utilizador á vida noturna, bares, pubs, eventos que irão acontecer. Dentro da aplicação é possível comprar bilhetes para eventos, os promotores de bares ou discotecas podem fazer promoção das suas festas, etc... Isto, é parecido, mas ao mesmo tempo muito diferente do que quero fazer. Quero criar uma aplicação simples e que faça unicamente a proposta de locais para sair á noite perto de si com base nos seus interesses pessoais.
+
+
+
+-	Versão Preliminar do projeto (3 guiões de teste 1 caso teste do progresso core do utilizador e 2 progressos diferentes do core da aplicação)
+
+
+Caso 1 – O utilizador irá começar por fazer criação da sua conta na aplicação. Irá introduzir o seu nome, e-mail e palavra-passe. 
+Depois da conta criada com sucesso irá passar a um ecrã que lhe irá pedir para escolher 3 a 5 interesses, de entre vários que daremos opção de escolher, relacionados com sair á noite (ex. karaoke, música ao vivo, esplanada, etc.…).
+Após a escolha dos interesses, a aplicação irá mostrar um novo ecrã que vai ser um mapa género do Pokémon GO onde vão estar colocados pins com locais para sair baseados nos interesses que o utilizador colocou. 
+Ao carregar num desses pins irá ser mostrado ao utilizador mais informações sobre o local como costuma aparecer como no Google Maps e irá ter um botão “Go There” que se o utilizador carregar irá iniciar o seu caminho até ao local como quando se usa o Google Maps, dando também a opção de como se pretende deslocar (a pé, de carro, comboio).
+
+
+Caso 2 - O utilizador irá começar por fazer criação da sua conta na aplicação. Irá introduzir o seu nome, e-mail e palavra-passe. 
+Depois da conta criada com sucesso irá passar a um ecrã que lhe irá pedir para escolher 3 a 5 interesses, de entre vários que daremos opção de escolher, relacionados com sair á noite (ex. karaoke, música ao vivo, esplanada, etc.…).
+Após a escolha dos interesses, a aplicação irá mostrar um novo ecrã que vai ser um mapa género do Pokémon GO onde vão estar colocados pins com locais para sair baseados nos interesses que o utilizador colocou. 
+Então o utilizador vê que não lhe satisfaz nenhum dos locais recomendados com base nos interesses que colocou. Aí ele pode dirigir se á navegação da aplicação no canto superior esquerdo onde irá ver uma opção para mudar os seus interesses.
+Após efetuar essa mudança irá voltar ao ecrã do mapa com novos locais de interesse com base nos novos interesses colocados. 
+
+Caso 3 - O utilizador irá começar por fazer criação da sua conta na aplicação. Irá introduzir o seu nome, e-mail e palavra-passe. 
+Depois da conta criada com sucesso irá passar a um ecrã que lhe irá pedir para escolher 3 a 5 interesses, de entre vários que daremos opção de escolher, relacionados com sair á noite (ex. karaoke, música ao vivo, esplanada, etc.…).
+Após a escolha dos interesses, a aplicação irá mostrar um novo ecrã que vai ser um mapa género do Pokémon GO onde vão estar colocados pins com locais para sair baseados nos interesses que o utilizador colocou.
+O utilizador dá uma vista de olhos rápida pela aplicação e apercebe-se que não era o que pretendia, então vai á navegação no canto superior esquerdo e faz terminar sessão.
+
+
+
